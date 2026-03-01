@@ -3,3 +3,7 @@ heello
 hello
 bye
 bue
+hwllo
+jwi
+hi
+hi
